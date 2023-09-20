@@ -1,0 +1,15 @@
+2023-09-06 23:49:18.463 [main] WARN  Main - Список пуст :(
+2023-09-06 23:49:32.580 [main] WARN  Main - Wrong format. Correct format:
+add Василий Петров vasily.petrov@gmail.com +79215637722
+2023-09-06 23:49:36.934 [main] WARN  Main - Wrong phone format. Correct format:
++79215637722
+2023-09-06 23:49:41.393 [main] WARN  Main - Wrong email format. Correct format:
+vasily.petrov@gmail.com
+2023-09-06 23:51:34.941 [main] WARN  Main - Wrong format. Correct format:
+remove Василий Петров
+2023-09-06 23:51:45.302 [main] WARN  Main - Такого клиента нет в списке :(
+2023-09-06 23:53:55.846 [main] WARN  Main - Wrong format. Correct format:
+add Василий Петров vasily.petrov@gmail.com +79215637722
+2023-09-07 00:19:49.273 [main] WARN  Main - Клиента Иван Андреев нет в списке :(
+2023-09-07 14:43:44.224 [main] WARN  Main - Wrong format. Correct format:
+remove Василий Петров

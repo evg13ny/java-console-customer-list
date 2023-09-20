@@ -1,0 +1,32 @@
+2023-09-06 23:49:15.884 [main] INFO  Main - help
+2023-09-06 23:49:18.463 [main] INFO  Main - list
+2023-09-06 23:49:20.613 [main] INFO  Main - count
+2023-09-06 23:49:32.580 [main] INFO  Main - add Василий Петров vasily.petrov@gmail.com
+2023-09-06 23:49:36.934 [main] INFO  Main - add Василий Петров vasily.petrov@gmail.com +79
+2023-09-06 23:49:41.393 [main] INFO  Main - add Василий Петров vasily.petrovgmail.com +79215637722
+2023-09-06 23:50:08.212 [main] INFO  Main - add Василий Петров vasily.petrov@gmail.com +79215637722
+2023-09-06 23:51:15.084 [main] INFO  Main - add Иван Андреев ivan.andreev@mail.com +74953030033
+2023-09-06 23:51:19.484 [main] INFO  Main - list
+2023-09-06 23:51:24.524 [main] INFO  Main - count
+2023-09-06 23:51:34.940 [main] INFO  Main - remove
+2023-09-06 23:51:45.302 [main] INFO  Main - remove Петр Васильев
+2023-09-06 23:51:54.386 [main] INFO  Main - remove Василий Петров
+2023-09-06 23:52:00.890 [main] INFO  Main - list
+2023-09-06 23:52:03.517 [main] INFO  Main - count
+2023-09-06 23:52:07.222 [main] INFO  Main - jjkljkljiojopi
+2023-09-06 23:52:12.072 [main] INFO  Main - help 0 0 0 00 0 
+2023-09-06 23:52:17.528 [main] INFO  Main - count 0 0 0 0  0
+2023-09-06 23:52:28.062 [main] INFO  Main - list 0 0 0 0 0 0
+2023-09-06 23:52:33.478 [main] INFO  Main - 0
+2023-09-06 23:53:55.842 [main] INFO  Main - add
+2023-09-06 23:53:58.153 [main] INFO  Main - 0
+2023-09-07 00:14:50.198 [main] INFO  Main - ппппп
+2023-09-07 00:16:52.774 [main] INFO  Main - help
+2023-09-07 00:19:08.760 [main] INFO  Main - help
+2023-09-07 00:19:17.534 [main] INFO  Main - add Василий Петров vasily.petrov@gmail.com +79215637722
+2023-09-07 00:19:23.984 [main] INFO  Main - list
+2023-09-07 00:19:27.937 [main] INFO  Main - count
+2023-09-07 00:19:49.272 [main] INFO  Main - remove Иван Андреев
+2023-09-07 00:20:07.570 [main] INFO  Main - remove Василий Петров
+2023-09-07 14:43:44.221 [main] INFO  Main - remove
+2023-09-07 14:43:48.091 [main] INFO  Main - 0

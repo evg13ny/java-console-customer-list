@@ -29,7 +29,7 @@
                 <version>${checkstyle-maven-plugin.version}</version>
                 <configuration>
                     <!-- Use last available configuration -->
-                    <configLocation>checkstyle.xml</configLocation>
+                    <configLocation>ConsoleCustomerList/checkstyle.xml</configLocation>
                     <configLocation>${checkstyle.config.remote}</configLocation>
                     <encoding>UTF-8</encoding>
                     <consoleOutput>true</consoleOutput>
